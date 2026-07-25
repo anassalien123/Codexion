@@ -1,3 +1,6 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_ib2fb8ib2fb8ib2f" src="https://github.com/user-attachments/assets/bbbe9461-6455-402c-8281-92ec3c80e8c1" />
+
+
 *This project has been created as part of the 42 curriculum by ancheab.*
 
 # Codexion
