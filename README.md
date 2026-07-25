@@ -111,4 +111,6 @@ Claude (Anthropic) was used throughout this project's development:
 - Debugging several `Makefile` issues (object directory handling, rebuild rules) and a runtime argument-parsing/invocation error.
 - Drafting and structuring this README, including summarizing the concurrency mechanisms already implemented in the codebase.
 
+<img width="1408" height="768" alt="Gemini_Generated_Image_bsvqp5bsvqp5bsvq" src="https://github.com/user-attachments/assets/3e43a24c-bc41-4298-a22d-e0d0183cce80" />
+
 All generated code was reviewed and is understood by the author; no part of the assignment's logic was produced without review.
